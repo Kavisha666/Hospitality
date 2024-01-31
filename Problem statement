@@ -1,0 +1,19 @@
+echo "# Hospitality-codebasics" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kavisha666/Hospitality-codebasics.git
+git push -u origin main
+
+This PowerBI dashboard is tailored for hospitality functions, offering comprehensive insights into key metrics vital for managing and optimizing operations within the hospitality industry. This dashboard provides a visually intuitive interface for tracking bookings, occupancy rates, revenue, customer satisfaction scores, and more. With interactive filters and drill-down capabilities, users can delve into specific time frames, regions, or customer segments to uncover actionable insights for enhancing guest experiences and maximizing profitability. Whether it's analyzing event performance, monitoring room utilization, or forecasdemand, this dashboard empowers decision-makers with the data-driven insights needed to drive operational excellence and deliver exceptional guest satisfaction
+Problem Statement
+ AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
+
+Measure: 
+ADR(Average daily Rate)
+Realisation
+Occupancy
+REVE PAR(Revenue generate per  available room)
+WOW (Week over Week Changes)
